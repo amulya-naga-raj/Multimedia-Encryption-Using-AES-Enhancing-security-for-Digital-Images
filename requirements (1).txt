@@ -1,0 +1,45 @@
+
+# MULTIMEDIA ENCRYPTION USING AES: ENHANCING SECURITY FOR DIGITAL IMAGES
+
+# CIS 628: INTRODUCTION TO CRYPTOGRAPHY SYRACUSE UNIVERSITY - FALL 2025
+
+# IMPORTANT: 
+- If running on GOOGLE COLAB , DO NOT need to install these.
+- Colab already has everything installed.
+
+# This file is ONLY for local installation on Windows/Mac/Linux.
+
+# How to use this file (local systems only):
+1. Open terminal in project folder
+2. Run: pip install -r requirements.txt
+3. Wait for installation to complete
+
+# CORE PACKAGES NEEDED:
+numpy==1.24.3
+pillow==10.0.0
+pycryptodome==3.18.0
+matplotlib==3.7.2
+pandas==2.0.3
+scipy==1.11.1
+gradio==4.0.0
+
+# PACKAGES FUNCTION:
+numpy - handles image arrays and calculations
+pillow - loads and processes images
+pycryptodome - provides AES encryption
+matplotlib - creates charts and visualizations
+pandas - manages data tables
+scipy - statistical analysis
+gradio - creates interactive dashboard
+
+# TROUBLESHOOTING:
+If "pip: command not found" - install pip first
+If "permission denied" - use: sudo pip install -r requirements.txt
+If "No module named Crypto" - reinstall: pip install --force-reinstall pycryptodome
+
+# FOR GOOGLR COLAB USERS:
+- Can ignore this file completely.
+- Just upload notebook and run - everything works automatically.
+- Need help - check Readme.md file.
+- OR
+Contact: amnagara@syr.edu

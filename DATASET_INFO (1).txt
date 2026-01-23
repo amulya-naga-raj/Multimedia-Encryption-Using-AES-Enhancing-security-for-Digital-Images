@@ -1,0 +1,34 @@
+DATASET INFORMATION
+
+IMPORTANT: The archive.zip file is included in the submission. 
+- This is for refference.
+
+Name: Intel Image Classification Dataset
+Source: Kaggle
+Direct Link: https://www.kaggle.com/datasets/puneet6060/intel-image-classification
+
+Download Instructions:
+1. Visit the Kaggle link above
+2. Sign in (free account required)
+3. Click Download button
+4. Save archive.zip file
+5. Do not extract - use as .zip
+
+Dataset Details:
+- File name: archive.zip
+- File size: Approximately 300 MB
+- Total images: ~25,000
+- Training images: 14,034 (used in project)
+- Test images: ~3,000
+- Prediction images: ~7,000
+- Categories: 6 (buildings, forest, glacier, mountain, sea, street)
+- Image format: JPG
+- Original resolution: 150x150 pixels
+- Processed resolution: 128x128 pixels (resized in code)
+
+License: Database Contents License (DbCL) v1.0
+
+Note for Evaluators:
+If archive.zip is not included in submission (due to file size),
+please download directly from Kaggle using link above.
+Dataset is publicly available and free to download.
