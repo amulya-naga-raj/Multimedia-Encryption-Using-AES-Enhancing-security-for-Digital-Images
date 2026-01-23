@@ -4,9 +4,9 @@
 
 # TEAM: 
 
-Amulya Naga Raj- 286373513
-Abhijnya Konanduru Gurumurthy- 231885826
-Ananya Naga Raj- 214585923
+Amulya Naga Raj
+Abhijnya Konanduru Gurumurthy
+Ananya Naga Raj
 
 ---
 
