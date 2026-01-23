@@ -70,7 +70,6 @@ No requirements needed if running on Google colab
 - Scroll each cell 
 - Each cell specified for its own function
 - One can observe detailed analysis 
-- Everything explained in detail 
 
 # Step 7: View Dashboard
 - Scroll to bottom of notebook
